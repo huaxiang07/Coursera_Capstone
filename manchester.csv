@@ -1,0 +1,48 @@
+Postcode,District,AreaDetail,Area
+M1,MANCHESTER,"Piccadilly, City Centre, Market Street",Manchester
+M2,MANCHESTER,"Deansgate, City Centre",Manchester
+M3,MANCHESTER,"City Centre, Deansgate, Castlefield",Manchester
+M3,SALFORD,"Blackfriars, Greengate, Trinity",Salford
+M4,MANCHESTER,"Ancoats, Northern Quarter, Strangeways",Manchester
+M5,SALFORD,"Ordsall, Seedley, Weaste, University",Salford
+M6,SALFORD,"Pendleton, Irlams o' th' Height, Langworthy, Seedley, Charlestown",Salford
+M7,SALFORD,"Higher Broughton, Cheetwood, Lower Broughton, Kersal",Salford
+M8,MANCHESTER,"Crumpsall, Cheetham Hill",Manchester
+M9,MANCHESTER,"Harpurhey, Blackley",Manchester
+M11,MANCHESTER,"Clayton, Openshaw, Beswick",Manchester
+M12,MANCHESTER,"Ardwick, Longsight, Chorlton-on-Medlock",Manchester
+M13,MANCHESTER,"Ardwick, Longsight, Chorlton-on-Medlock",Manchester
+M14,MANCHESTER,"Fallowfield, Moss Side, Ladybarn, Rusholme, Longsight",Manchester
+M15,MANCHESTER,"Hulme, Manchester Science Park, Old Trafford","Manchester, Trafford"
+M16,MANCHESTER,"Firswood, Old Trafford, Whalley Range, Moss Side","Manchester, Trafford"
+M17,MANCHESTER,"Trafford Park, The Trafford Centre",Trafford
+M18,MANCHESTER,"Abbey Hey, Gorton",Manchester
+M19,MANCHESTER,"Levenshulme, Burnage","Manchester, Stockport"
+M20,MANCHESTER,"Didsbury, Withington",Manchester
+M21,MANCHESTER,"Chorlton-cum-Hardy, Barlow Moor",Manchester
+M22,MANCHESTER,"Wythenshawe, Northenden, Sharston Industrial Area",Manchester
+M23,MANCHESTER,"Baguley, Brooklands (Manchester and Trafford), Roundthorn Industrial Estate","Manchester, Trafford"
+M24,MANCHESTER,"Middleton, Alkrington, Chadderton","Rochdale, Oldham"
+M25,MANCHESTER,"Prestwich, Sedgley Park, Simister",Bury
+M26,MANCHESTER,"Radcliffe, Stoneclough","Bury, Bolton"
+M27,MANCHESTER,"Swinton, Clifton, Pendlebury, Wardley, Agecroft",Salford
+M28,MANCHESTER,"Worsley, Walkden, Boothstown, Mosley Common, Wardley Industrial Estate","Salford, Wigan"
+M29,MANCHESTER,"Tyldesley, Astley",Wigan
+M30,MANCHESTER,"Eccles, Monton, Peel Green, Winton, Patricroft, Barton-upon-Irwell, Ellesmere Park",Salford
+M31,MANCHESTER,"Carrington, Partington",Trafford
+M32,MANCHESTER,"Stretford, Barton Dock Road",Trafford
+M33,SALE,"Sale, Brooklands (Manchester and Trafford)","Trafford, Manchester"
+M34,MANCHESTER,"Denton, Audenshaw",Tameside
+M35,MANCHESTER,Failsworth,Oldham
+M38,MANCHESTER,Little Hulton,Salford
+M40,MANCHESTER,"Collyhurst, Miles Platting, Moston, New Moston, Newton Heath",Manchester
+M41,MANCHESTER,"Urmston, Davyhulme, Flixton, Barton Dock Road",Trafford
+M43,MANCHESTER,Droylsden,Tameside
+M44,MANCHESTER,"Irlam, Cadishead",Salford
+M45,MANCHESTER,Whitefield,Bury
+M46,MANCHESTER,Atherton,Wigan
+M50,SALFORD,"Salford Quays, MediaCityUK",Salford
+M60,MANCHESTER,Large user and PO Box (located geographically in M1),Manchester
+M61,MANCHESTER,Manchester X,Manchester
+M90,MANCHESTER,Manchester Airport,Manchester
+M99,MANCHESTER,Manchester X; JD Williams (located geographically in M1 and M3),Manchester

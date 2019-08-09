@@ -1,0 +1,42 @@
+Postcode,District,AreaDetail,Area
+L1,LIVERPOOL,City Centre,Liverpool
+L2,LIVERPOOL,City Centre,Liverpool
+L3,LIVERPOOL,"City Centre, Everton, Vauxhall",Liverpool
+L4,LIVERPOOL,"Anfield, Kirkdale, Walton",Liverpool
+L5,LIVERPOOL,"Anfield, Everton, Kirkdale, Vauxhall",Liverpool
+L6,LIVERPOOL,"Anfield, City Centre, Everton, Fairfield, Kensington, Tuebrook",Liverpool
+L7,LIVERPOOL,"City Centre, Edge Hill, Fairfield, Kensington",Liverpool
+L8,LIVERPOOL,"City Centre, Dingle, Toxteth",Liverpool
+L9,LIVERPOOL,"Aintree, Fazakerley, Orrell Park, Walton","Liverpool, Sefton"
+L10,LIVERPOOL,"Aintree Village, Fazakerley","Sefton, Liverpool, Knowsley"
+L11,LIVERPOOL,"Clubmoor, Croxteth, Gillmoss, Norris Green",Liverpool
+L12,LIVERPOOL,"Croxteth Park, West Derby",Liverpool
+L13,LIVERPOOL,"Clubmoor, Old Swan, Stoneycroft, Tuebrook",Liverpool
+L14,LIVERPOOL,"Broadgreen, Dovecot, Knotty Ash, Page Moss","Liverpool, Knowsley"
+L15,LIVERPOOL,Wavertree,Liverpool
+L16,LIVERPOOL,"Broadgreen, Bowring Park, Childwall","Liverpool, Knowsley"
+L17,LIVERPOOL,"Aigburth, St Michael's Hamlet, Sefton Park",Liverpool
+L18,LIVERPOOL,"Allerton, Mossley Hill",Liverpool
+L19,LIVERPOOL,"Garston, Grassendale, Aigburth,",Liverpool
+L20,BOOTLE,"Bootle, Orrell","Sefton, Liverpool"
+,LIVERPOOL,Kirkdale,Liverpool
+L21,LIVERPOOL,"Ford, Litherland, Seaforth","Sefton, Liverpool"
+L22,LIVERPOOL,Waterloo,Sefton
+L23,LIVERPOOL,"Blundellsands, Brighton-le-Sands, Crosby, Little Crosby, Thornton",Sefton
+L24,LIVERPOOL,"Hale, Speke","Halton, Liverpool"
+L25,LIVERPOOL,"Belle Vale, Gateacre, Hunts Cross, Woolton, Halewood","Liverpool, Knowsley"
+L26,LIVERPOOL,Halewood,"Liverpool, Knowsley"
+L27,LIVERPOOL,Netherley,Liverpool
+L28,LIVERPOOL,Stockbridge Village,"Liverpool, Knowsley"
+L29,LIVERPOOL,"Lunt, Sefton Village",Sefton
+L30,BOOTLE,"Bootle, Netherton",Sefton
+L31,LIVERPOOL,"Maghull, Lydiate, Melling, Waddicar",Sefton
+L32,LIVERPOOL,Kirkby,Knowsley
+L33,LIVERPOOL,Kirkby,Knowsley
+L34,PRESCOT,"Prescot, Knowsley Village",Knowsley
+L35,PRESCOT,"Prescot, Whiston, Rainhill","Knowsley, St Helens"
+L36,LIVERPOOL,"Huyton, Roby, Tarbock",Knowsley
+L37,LIVERPOOL,"Formby, Little Altcar, Great Altcar","Sefton, West Lancashire"
+L38,LIVERPOOL,"Ince Blundell, Hightown","Sefton, West Lancashire"
+L39,ORMSKIRK,"Ormskirk, Aughton",West Lancashire
+L40,ORMSKIRK,"Burscough, Mawdesley, Scarisbrick, Rufford, Holmeswood","West Lancashire, Chorley"
